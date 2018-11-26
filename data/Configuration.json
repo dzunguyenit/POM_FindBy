@@ -1,0 +1,6 @@
+{
+  "browser": "chrome",
+  "site_fo": "https://www.chotot.com",
+  "object_wait": 9,
+  "page_wait": 50
+}

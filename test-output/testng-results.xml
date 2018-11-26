@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="60596" started-at="2018-11-26T03:56:09Z" finished-at="2018-11-26T03:57:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="60596" started-at="2018-11-26T03:56:09Z" finished-at="2018-11-26T03:57:10Z">
+      <class name="LoginTest">
+        <test-method status="PASS" signature="setUpSuite()[pri:0, instance:LoginTest@ae45eb6]" name="setUpSuite" is-config="true" duration-ms="10702" started-at="2018-11-26T10:55:58Z" finished-at="2018-11-26T10:56:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpSuite -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:LoginTest@ae45eb6]" name="beforeClass" is-config="true" duration-ms="256" started-at="2018-11-26T10:56:09Z" finished-at="2018-11-26T10:56:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="setUpBeforeMethod()[pri:0, instance:LoginTest@ae45eb6]" name="setUpBeforeMethod" is-config="true" duration-ms="15" started-at="2018-11-26T10:56:09Z" finished-at="2018-11-26T10:56:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="TC01_login_Success()[pri:0, instance:LoginTest@ae45eb6]" name="TC01_login_Success" duration-ms="21376" started-at="2018-11-26T10:56:09Z" description="Login successfully" finished-at="2018-11-26T10:56:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_login_Success -->
+        <test-method status="PASS" signature="cleanOrKeepTrack()[pri:0, instance:LoginTest@ae45eb6]" name="cleanOrKeepTrack" is-config="true" duration-ms="0" started-at="2018-11-26T10:56:31Z" finished-at="2018-11-26T10:56:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanOrKeepTrack -->
+        <test-method status="PASS" signature="setUpBeforeMethod()[pri:0, instance:LoginTest@ae45eb6]" name="setUpBeforeMethod" is-config="true" duration-ms="0" started-at="2018-11-26T10:56:31Z" finished-at="2018-11-26T10:56:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="TC02_login_Incorrect_Phone()[pri:0, instance:LoginTest@ae45eb6]" name="TC02_login_Incorrect_Phone" duration-ms="1685" started-at="2018-11-26T10:56:31Z" description="incorrect Phone number" finished-at="2018-11-26T10:56:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02_login_Incorrect_Phone -->
+        <test-method status="PASS" signature="TC03_login_Incorrect_Pass()[pri:0, instance:LoginTest@ae45eb6]" name="TC03_login_Incorrect_Pass" duration-ms="751" started-at="2018-11-26T10:56:32Z" description="invalid password" finished-at="2018-11-26T10:56:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03_login_Incorrect_Pass -->
+        <test-method status="PASS" signature="cleanOrKeepTrack()[pri:0, instance:LoginTest@ae45eb6]" name="cleanOrKeepTrack" is-config="true" duration-ms="0" started-at="2018-11-26T10:56:32Z" finished-at="2018-11-26T10:56:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanOrKeepTrack -->
+        <test-method status="PASS" signature="setUpBeforeMethod()[pri:0, instance:LoginTest@ae45eb6]" name="setUpBeforeMethod" is-config="true" duration-ms="0" started-at="2018-11-26T10:56:32Z" finished-at="2018-11-26T10:56:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="setUpBeforeMethod()[pri:0, instance:LoginTest@ae45eb6]" name="setUpBeforeMethod" is-config="true" duration-ms="0" started-at="2018-11-26T10:56:33Z" finished-at="2018-11-26T10:56:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="TC04_login_Invalid_User_Pass()[pri:0, instance:LoginTest@ae45eb6]" name="TC04_login_Invalid_User_Pass" duration-ms="716" started-at="2018-11-26T10:56:33Z" description="invalid username and password" finished-at="2018-11-26T10:56:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC04_login_Invalid_User_Pass -->
+        <test-method status="PASS" signature="cleanOrKeepTrack()[pri:0, instance:LoginTest@ae45eb6]" name="cleanOrKeepTrack" is-config="true" duration-ms="0" started-at="2018-11-26T10:56:33Z" finished-at="2018-11-26T10:56:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanOrKeepTrack -->
+        <test-method status="PASS" signature="cleanOrKeepTrack()[pri:0, instance:LoginTest@ae45eb6]" name="cleanOrKeepTrack" is-config="true" duration-ms="0" started-at="2018-11-26T10:56:34Z" finished-at="2018-11-26T10:56:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanOrKeepTrack -->
+        <test-method status="PASS" signature="setUpBeforeMethod()[pri:0, instance:LoginTest@ae45eb6]" name="setUpBeforeMethod" is-config="true" duration-ms="0" started-at="2018-11-26T10:56:34Z" finished-at="2018-11-26T10:56:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="TC05_login_Invalid_Format()[pri:0, instance:LoginTest@ae45eb6]" name="TC05_login_Invalid_Format" duration-ms="721" started-at="2018-11-26T10:56:34Z" description="invalid format number" finished-at="2018-11-26T10:56:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC05_login_Invalid_Format -->
+        <test-method status="PASS" signature="setUpBeforeMethod()[pri:0, instance:LoginTest@ae45eb6]" name="setUpBeforeMethod" is-config="true" duration-ms="1" started-at="2018-11-26T10:56:35Z" finished-at="2018-11-26T10:56:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="cleanOrKeepTrack()[pri:0, instance:LoginTest@ae45eb6]" name="cleanOrKeepTrack" is-config="true" duration-ms="0" started-at="2018-11-26T10:56:35Z" finished-at="2018-11-26T10:56:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanOrKeepTrack -->
+        <test-method status="PASS" signature="TC06_login_Pwd_lessthan_5()[pri:0, instance:LoginTest@ae45eb6]" name="TC06_login_Pwd_lessthan_5" duration-ms="665" started-at="2018-11-26T10:56:35Z" description="password less than 5 chars" finished-at="2018-11-26T10:56:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC06_login_Pwd_lessthan_5 -->
+        <test-method status="PASS" signature="TC07_login_Invalid_Phone_Pwd_lessthan_5()[pri:0, instance:LoginTest@ae45eb6]" name="TC07_login_Invalid_Phone_Pwd_lessthan_5" duration-ms="718" started-at="2018-11-26T10:56:35Z" description="password less than 5 chars" finished-at="2018-11-26T10:56:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC07_login_Invalid_Phone_Pwd_lessthan_5 -->
+        <test-method status="PASS" signature="cleanOrKeepTrack()[pri:0, instance:LoginTest@ae45eb6]" name="cleanOrKeepTrack" is-config="true" duration-ms="0" started-at="2018-11-26T10:56:35Z" finished-at="2018-11-26T10:56:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanOrKeepTrack -->
+        <test-method status="PASS" signature="setUpBeforeMethod()[pri:0, instance:LoginTest@ae45eb6]" name="setUpBeforeMethod" is-config="true" duration-ms="0" started-at="2018-11-26T10:56:35Z" finished-at="2018-11-26T10:56:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="cleanOrKeepTrack()[pri:0, instance:LoginTest@ae45eb6]" name="cleanOrKeepTrack" is-config="true" duration-ms="0" started-at="2018-11-26T10:56:36Z" finished-at="2018-11-26T10:56:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanOrKeepTrack -->
+        <test-method status="PASS" signature="setUpBeforeMethod()[pri:0, instance:LoginTest@ae45eb6]" name="setUpBeforeMethod" is-config="true" duration-ms="0" started-at="2018-11-26T10:56:36Z" finished-at="2018-11-26T10:56:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="TC08_login_Empty()[pri:0, instance:LoginTest@ae45eb6]" name="TC08_login_Empty" duration-ms="9167" started-at="2018-11-26T10:56:36Z" description="Login empty" finished-at="2018-11-26T10:56:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC08_login_Empty -->
+        <test-method status="PASS" signature="cleanOrKeepTrack()[pri:0, instance:LoginTest@ae45eb6]" name="cleanOrKeepTrack" is-config="true" duration-ms="0" started-at="2018-11-26T10:56:45Z" finished-at="2018-11-26T10:56:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanOrKeepTrack -->
+        <test-method status="PASS" signature="TC09_login_Facebook()[pri:0, instance:LoginTest@ae45eb6]" name="TC09_login_Facebook" duration-ms="24479" started-at="2018-11-26T10:56:45Z" description="Login FB successfully" finished-at="2018-11-26T10:57:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC09_login_Facebook -->
+        <test-method status="PASS" signature="setUpBeforeMethod()[pri:0, instance:LoginTest@ae45eb6]" name="setUpBeforeMethod" is-config="true" duration-ms="0" started-at="2018-11-26T10:56:45Z" finished-at="2018-11-26T10:56:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method status="PASS" signature="cleanOrKeepTrack()[pri:0, instance:LoginTest@ae45eb6]" name="cleanOrKeepTrack" is-config="true" duration-ms="0" started-at="2018-11-26T10:57:10Z" finished-at="2018-11-26T10:57:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanOrKeepTrack -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:LoginTest@ae45eb6]" name="afterClass" is-config="true" duration-ms="1" started-at="2018-11-26T10:57:10Z" finished-at="2018-11-26T10:57:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="clearUp()[pri:0, instance:LoginTest@ae45eb6]" name="clearUp" is-config="true" duration-ms="7586" started-at="2018-11-26T10:57:11Z" finished-at="2018-11-26T10:57:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearUp -->
+      </class> <!-- LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

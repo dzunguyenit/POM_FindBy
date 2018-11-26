@@ -1,0 +1,44 @@
+{
+  "Loginform": {
+    "1st": {
+      "_comment": "successfully",
+      "use": "0925918293",
+      "pwd": "Aa,123456"
+    },
+    "2nd": {
+      "_comment": "incorrect Phone number",
+      "use": "11111111111111",
+      "pwd": "Aa,123456"
+    },
+    "3rd": {
+      "_comment": "Incorrect password",
+      "use": "0925918293",
+      "pwd": "11111111111111"
+    },
+    "4th": {
+      "_comment": "invalid username and password",
+      "use": "0123456789",
+      "pwd": "11111111111111"
+    },
+    "5th": {
+      "_comment": "invalid format number",
+      "use": "invalid@example.com",
+      "pwd": "test123"
+    },
+    "6th": {
+      "_comment": "Phone valid and password less than 5 chars",
+      "use": "0925918293",
+      "pwd": "1234"
+    },
+    "7th": {
+      "_comment": "Phone invalid and password less than 5 chars",
+      "use": "092591829311111",
+      "pwd": "1234"
+    },
+    "8th": {
+      "_comment": "Login by facebook",
+      "use": "lamviet889@gmail.com",
+      "pwd": "Aa,123456"
+    }
+  }
+}
